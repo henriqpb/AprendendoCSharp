@@ -11,13 +11,13 @@ class Program
         // rendimento de 0.5% (0.005) ao mês
 
         // mês 1
-        investimento = investimento + investimento * 0.005;
+        //investimento = investimento + investimento * 0.005;
 
         // mês 2
-        investimento = investimento + investimento * 0.005;
+        //investimento = investimento + investimento * 0.005;
 
         // mês 3
-        investimento = investimento + investimento * 0.005;
+        //investimento = investimento + investimento * 0.005;
 
         Console.WriteLine(investimento);
 

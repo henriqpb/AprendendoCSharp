@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Exercicio for 01");
 
-
+        //múltiplos de 3 de 1 a 100
 
         for (int numero = 1; numero <= 100; numero++)
         {

@@ -3,6 +3,8 @@ class Programa
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Executando projeto 3 - Criando variaveis ponto flutuante");
+
         double salario;
         salario = 3000.10;
         salario = 3000;

@@ -13,9 +13,9 @@ class Program
         {
             for (int mes = 1; mes <= 12; mes++)
             {
-                investimento *= fatorRendimento;
+                investimento *= fatorRendimento; //investimento = investimento * fatorRendimento 
             }
-            fatorRendimento += 0.001;
+            fatorRendimento += 0.001; // fatorRendimento = fatoRendimento + 0.001
         }
 
         Console.WriteLine("Depois de 5 anos você terá R$ " + investimento);

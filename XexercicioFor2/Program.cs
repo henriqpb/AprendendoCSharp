@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
+
+        //Exercicio Fatorial
+
         Console.WriteLine("Exercicio for 02");
 
         int fatorial = 1;
@@ -15,7 +18,7 @@ class Program
         }
 
 
-
+        // num *= x  => num = num * x
 
         Console.WriteLine("Tecle Enter para sair");
         Console.ReadLine();
